@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-  host: "YOUR_SERVER_IP",
-  port: 25565,
+  host: "avinashboy.aternos.me",
+  port: 47974,
   username: "AFK_Bot"
 })
 
